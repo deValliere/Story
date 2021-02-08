@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 ﻿Alien file master
 
+||||||| d145b9f
+=======
+﻿Git Alien
+>>>>>>> Alien
